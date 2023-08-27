@@ -28,7 +28,7 @@ class _FoodPageState extends State<FoodPage> {
             text: 'Food App',
             fontWeight: FontWeight.bold,
             color: Colors.black,
-            size: 30,
+            size:  Dimensions.font30,
           ),
           toolbarHeight: Dimensions.heightFor60,
           elevation: 0,

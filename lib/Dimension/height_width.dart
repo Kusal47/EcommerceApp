@@ -38,6 +38,7 @@ class Dimensions {
   static double font24 = screenHeight/33.45;
   static double font26 = screenHeight / 30.88;
   static double font16 = screenHeight / 50.18;
+  static double font30 = screenHeight / 26.76;
 
   // For Border Radius making responsive for all devices
   static double radius15 = screenHeight / 53.53;
